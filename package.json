@@ -1,0 +1,25 @@
+{
+  "name": "lazy-img.vue",
+  "version": "1.0.0",
+  "description": "向 Vue 添加一个懒加载的指令",
+  "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daGaiGuanYu/lazy-img.vue.js.git"
+  },
+  "keywords": [
+    "vue",
+    "lazy",
+    "load"
+  ],
+  "author": "gy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daGaiGuanYu/lazy-img.vue.js/issues"
+  },
+  "homepage": "https://github.com/daGaiGuanYu/lazy-img.vue.js#readme",
+  "dependencies": {
+    "lodash": ">= 2.0.0",
+    "vue": ">= 2.0.0"
+  }
+}
