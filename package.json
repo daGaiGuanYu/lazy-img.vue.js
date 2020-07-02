@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/daGaiGuanYu/lazy-img.vue.js.git"
   },
+  "scripts": {
+    "example": "parcel example/src/index.html"
+  },
   "keywords": [
     "vue",
     "lazy",

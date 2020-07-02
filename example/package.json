@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "lazy-img.vue": "^1.0.0",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.1.2",
+    "pug": "^3.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
